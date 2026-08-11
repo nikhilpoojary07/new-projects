@@ -93,3 +93,42 @@ Don't just memorize solutions.
 For every problem learn:
 
 Problem → Approach → Complexity → Code → Alternative approach
+
+
+Phase 3 — SQL + DBMS
+Month 3–4
+
+Learn SQL alongside DSA.
+
+SQL
+SELECT
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+JOINs
+Subqueries
+CTE
+CASE
+Window functions
+Views
+Indexes
+Transactions
+DBMS
+
+You should be able to explain:
+
+Primary key
+Foreign key
+Candidate key
+Normalization
+ACID
+Transactions
+Indexing
+B-Tree
+Deadlock
+Concurrency
+SQL vs NoSQL
+CAP theorem
+
+🎯 Target: 100 SQL problems
