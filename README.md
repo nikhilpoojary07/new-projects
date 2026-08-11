@@ -50,3 +50,46 @@ Binary search
 Recursion
 
 🎯 Target: 100 problems
+
+
+Phase 2 — Advanced DSA
+Month 3–5
+
+This is the most important phase for ₹30 LPA.
+
+Learn:
+
+Data Structures
+Linked List
+Stack
+Queue
+Deque
+Trees
+Binary Search Tree
+Heap
+Priority Queue
+Graph
+Trie
+Algorithms
+Recursion
+Backtracking
+Greedy
+Dynamic Programming
+BFS
+DFS
+Topological Sort
+Dijkstra
+Union Find
+Divide & Conquer
+Problem target
+Level	Problems
+Easy	100
+Medium	150
+Hard	30–50
+Total	280–300+
+
+Don't just memorize solutions.
+
+For every problem learn:
+
+Problem → Approach → Complexity → Code → Alternative approach
