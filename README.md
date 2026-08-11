@@ -1,8 +1,1 @@
 
-  IN THIS REPO YOU CAN GET ROAD MAP TO CRACK 30 LPA JOBS# new-projects
-THE PROJCET-
-Ai driven projects
-DSA QUSETIONS
-LLM
-AI CHATBOT
-ai tools
