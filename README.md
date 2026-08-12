@@ -185,3 +185,86 @@ Admin Dashboard
 Use:
 
 Java + Spring Boot + MySQL + React
+Phase 5 — Frontend
+Month 6–7
+
+Learn:
+
+HTML
+CSS
+JavaScript
+React
+
+React topics:
+
+Components
+Props
+State
+Hooks
+useEffect
+Forms
+Routing
+API calls
+Authentication
+Context API
+Error handling
+
+Don't spend 3 months learning frontend.
+
+Your goal is to become a strong backend/full-stack engineer, not a frontend specialist.
+
+Phase 6 — System Design
+Month 8–9
+
+This becomes increasingly important for high-paying companies.
+
+Learn:
+
+Low-Level Design
+SOLID
+Design patterns
+Interfaces
+Classes
+Dependency Injection
+Factory
+Singleton
+Strategy
+Observer
+
+Practice designing:
+
+Parking Lot
+Library Management
+ATM
+Food Delivery
+E-commerce
+Movie Booking
+High-Level Design
+
+Learn:
+
+Load Balancer
+Caching
+Redis
+Database scaling
+Replication
+Sharding
+Message queues
+Kafka basics
+Microservices
+API Gateway
+Rate limiting
+CDN
+Object storage
+
+Practice:
+
+Design YouTube
+
+Design WhatsApp
+
+Design Instagram
+
+Design Uber
+
+Design Amazon
