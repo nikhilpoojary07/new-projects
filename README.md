@@ -131,3 +131,57 @@ Concurrency
 SQL vs NoSQL
 CAP theorem
  Target: 100 SQL problems
+
+
+ Phase 4 — Backend Development
+Month 5–7
+
+Learn Spring Boot.
+
+You already have Java knowledge, so this is a good direction.
+
+Learn:
+
+Spring
+Spring Boot
+REST API
+HTTP
+JSON
+MVC
+Dependency Injection
+Spring Data JPA
+Hibernate
+Authentication
+JWT
+Authorization
+Validation
+Exception handling
+Pagination
+Sorting
+Logging
+API documentation
+Unit testing
+
+Build:
+
+Project 1 — E-Commerce Backend
+
+Features:
+
+User
+ ↓
+Authentication
+ ↓
+Products
+ ↓
+Cart
+ ↓
+Orders
+ ↓
+Payment
+ ↓
+Admin Dashboard
+
+Use:
+
+Java + Spring Boot + MySQL + React
