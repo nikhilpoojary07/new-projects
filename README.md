@@ -1,4 +1,4 @@
-🎯 ₹30 LPA Roadmap — 12 Months
+₹30 LPA Roadmap — 12 Months
 Target skill stack
 
 Java + DSA + SQL + Spring Boot + React + System Design + Cloud + AI tools
@@ -49,7 +49,7 @@ Sorting
 Binary search
 Recursion
 
-🎯 Target: 100 problems
+ Target: 100 problems
 
 
 Phase 2 — Advanced DSA
@@ -130,5 +130,4 @@ Deadlock
 Concurrency
 SQL vs NoSQL
 CAP theorem
-
-🎯 Target: 100 SQL problems
+ Target: 100 SQL problems
