@@ -10,7 +10,6 @@ Month 1–2
 
 Primary language: Java
 
-Learn:
 
 Java syntax
 Variables & data types
@@ -38,7 +37,7 @@ File handling
 Basic multithreading
 DSA
 
-Start with:
+Start with
 
 Arrays
 Strings
@@ -136,7 +135,7 @@ CAP theorem
  Phase 4 — Backend Development
 Month 5–7
 
-Learn Spring Boot.
+Learn Spring Boot
 
 You already have Java knowledge, so this is a good direction.
 
