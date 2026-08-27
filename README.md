@@ -241,7 +241,7 @@ E-commerce
 Movie Booking
 High-Level Design
 
-Learn:
+
 
 Load Balancer
 Caching
