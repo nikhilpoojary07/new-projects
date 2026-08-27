@@ -49,8 +49,7 @@ Sorting
 Binary search
 Recursion
 
- Target: 100 problems
-
+ 
 
 Phase 2 — Advanced DSA
 Month 3–5
